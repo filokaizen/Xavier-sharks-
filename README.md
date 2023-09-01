@@ -2,7 +2,7 @@
 ## Herramiendas usadas: Pandas, seabor and matplot
 
 
-![klk](.\Images/megalodon.jpg)
+![titulo sino se ve ](.\Images/megalodon.jpg)
 
 El objeto de este proyecto didáctico y educativo fue limpiar el siguiente dataframe. https://github.com/filokaizen/Xavier-sharks-/blob/main/Data/attacks.csv
 
@@ -32,6 +32,6 @@ Las dos ultimas columnas 'unnamed:_22', 'unnamed:_23' las cambio de nombre a bor
 
 Tras limpiar el dataframe  y extraer la información de una manera organizada, se llegó a la conclusión de que  los países de Estados Unidos, Australia y Sudafrica encabezan la lista de los ataques de tiburones, esto se puede deber a que existe un mayor registro sobre los ataques de tiburones.
 
-![klk](.\Images/output.png)
+![](.\Images/output.png)
 
 
